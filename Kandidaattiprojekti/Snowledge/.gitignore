@@ -1,0 +1,7 @@
+Server/back_end/db/
+Server/back_end/__pycache__/
+Server/back_end/todo
+Server/back_end/single_message_sender.py
+
+app_test/
+mobile_app/pubspec.lock
