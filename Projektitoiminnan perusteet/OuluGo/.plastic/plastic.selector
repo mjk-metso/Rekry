@@ -1,0 +1,4 @@
+repository "OuluGo@IHateThisMap@cloud"
+  path "/"
+    br "/main"
+    co "/main"
